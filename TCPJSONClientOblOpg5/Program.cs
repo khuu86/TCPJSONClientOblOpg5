@@ -98,6 +98,7 @@ namespace EchoClientExpanded
 
                 // Serialize the request object into JSON format and send to the server
                 string jsonRequest = JsonSerializer.Serialize(request);
+                Console.WriteLine("Sender JSON request: " + jsonRequest); // Log request
                 writer.WriteLine(jsonRequest);
                 writer.Flush();
 
