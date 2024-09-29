@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TCPJSONClientOblOpg5", "TCPJSONClientOblOpg5\TCPJSONClientOblOpg5.csproj", "{FCBF4B60-4A7F-438A-A988-9C689CA9FD96}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FCBF4B60-4A7F-438A-A988-9C689CA9FD96}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCBF4B60-4A7F-438A-A988-9C689CA9FD96}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCBF4B60-4A7F-438A-A988-9C689CA9FD96}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCBF4B60-4A7F-438A-A988-9C689CA9FD96}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EF21A319-6270-4EBD-B1B0-803106B5122C}
+	EndGlobalSection
+EndGlobal
